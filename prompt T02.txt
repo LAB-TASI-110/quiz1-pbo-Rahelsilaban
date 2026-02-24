@@ -1,0 +1,12 @@
+From Gemini:
+1. coba lihat soal ini
+2. public class Driver2 {
+    
+} 
+gunakan ini
+3. coba bagaimana merunkannya
+4. mksdku gimana mencompileny
+5. gimana mengatasi ini
+6. kenapa terjadi kek gini
+7. kenapa hasil hitungannya tak sesuai
+8. oh ok udah
