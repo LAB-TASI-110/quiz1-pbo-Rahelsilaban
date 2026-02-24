@@ -1,0 +1,20 @@
+From Gemini :
+1. hai, saya mau membuat sistem
+2. sistem ini untuk mendukung operasional sehari hari laundry di institut teknologi del
+3. ini pembagian laundrynya sesuai asrama :
+
+1. asrama kembar 
+2. asrama archimedes 
+3. asrama louis pasteur 
+4. asrama nicola tesla
+5. asrama rusun dua 
+6. asrama rusun tiga
+
+4. aku mau membuat codingan java
+5. itu nnti inputan sama outputnya apa aja
+6. gausah ada estimasi selesai
+7. layanan juga gausah
+8. salah compilelannya
+9. nama filenya Driver3.java
+10. kenapa masih kek gni
+11. mungkin kodenya yg krg pas, perbaiki dlu
