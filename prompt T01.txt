@@ -1,0 +1,9 @@
+From ChatGpt
+1. Kerjakan soal berikut 
+2. coba kamu buatkan kodenya supaya sesuai outputnya seperti ini
+3. public class Driver1 { } 
+   gunakan ini
+4. apakah outputannya nnti sudh bnr?
+5. coba berikan cara mengcompilenya
+6. ini kenapa
+7. gaada di sana malah error kasih solusi lain
